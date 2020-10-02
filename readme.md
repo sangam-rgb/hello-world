@@ -2,6 +2,5 @@
 
 ## First
 
-## Second
 
-## Third
+### Second
